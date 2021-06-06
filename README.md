@@ -10,7 +10,7 @@ With currently active tab highlighting,
 
 ... inactive/active window focus coloring,
 
-![inactive-active-highlighting](./inactive-active-highlight.gif)
+![inactive-active-highlighting](./inactive_active-highlight.gif)
 
 and ingcognito coloring (which includes the above features as well, but colored to be distinguishable between standard and incognito sessions):
 
