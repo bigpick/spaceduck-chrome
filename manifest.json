@@ -1,0 +1,38 @@
+{
+  "name": "Spaceduck: An intergalactic space theme",
+  "description": "Spaceduck color theme for Google Chrome.",
+  "manifest_version": 2,
+  "version": "1.0",
+  "default_locale": "en_US",
+  "icons": {
+    "16": "images/Icon-16.png",
+    "32": "images/Icon-32.png",
+    "48": "images/Icon-48.png",
+    "128": "images/Icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [15, 17, 27],
+      "frame_inactive": [27, 28, 54],
+      "frame_incognito": [15, 17, 27],
+      "frame_incognito_inactive": [15, 17, 27],
+      "bookmark_text": [104, 111, 154],
+      "tab_background_text": [179, 161, 230],
+      "tab_background_text_inactive": [104, 111, 154],
+      "tab_background_text_incognito": [227, 148, 0],
+      "tab_background_text_incognito_inactive": [227, 148, 0],
+      "tab_text": [236, 240, 193],
+      "toolbar": [22, 23, 45],
+      "toolbar_button_icon": [236, 240, 193],
+      "omnibox_text": [236, 240, 193],
+      "omnibox_background": [15, 17, 27],
+      "ntp_background": [15, 17, 27],
+      "ntp_header": [27, 28, 54],
+      "ntp_link": [0, 163, 204],
+      "ntp_text": [236, 240, 193]
+    },
+    "images": {
+      "theme_toolbar": "images/theme_toolbar.png"
+    }
+  }
+}
