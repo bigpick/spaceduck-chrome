@@ -12,7 +12,7 @@ With currently active tab highlighting,
 
 ![inactive-active-highlighting](./inactive-active-highlight.gif)
 
-... and ingcognito coloring:
+and ingcognito coloring (which includes the above features as well, but colored to be distinguishable between standard and incognito sessions):
 
 ![ingcognito-highlighting](./incognito_home.png)
 
