@@ -2,18 +2,24 @@
 
 > A [spaceduck](https://github.com/pineapplegiant/spaceduck) theme for [Google Chrome](https://www.google.com/chrome/) web browser.
 
-![Screenshot](./screenshot.png)
+![Screenshot](./spaceduck_home_tabs.png)
 
-With currently active tab highlighting:
+With currently active tab highlighting,
 
-![active-tab-highlighting](./screenshot.gif)
+![active-tab-highlighting](./tab_highlighting.gif)
+
+... inactive/active window focus coloring,
+
+![inactive-active-highlighting](./inactive-active-highlight.gif)
+
+... and ingcognito coloring:
+
+![ingcognito-highlighting](./incognito_home.png)
+
 
 ## Install
 
-First, get the source code via one of the download methods, then proceed to activating.
-
-### Getting Theme
-#### Download Using the Google Chrome Store
+### Download Using the Google Chrome Store
 
 1. [Install theme through the Google Chrome Store](https://chrome.google.com/webstore/detail/?????)
 
