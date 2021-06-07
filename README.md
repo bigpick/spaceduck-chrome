@@ -21,7 +21,7 @@ and ingcognito coloring (which includes the above features as well, but colored 
 
 ### Download Using the Google Chrome Store
 
-1. [Install theme through the Google Chrome Store](https://chrome.google.com/webstore/detail/?????)
+1. [Install theme through the Google Chrome Store](https://chrome.google.com/webstore/detail/spaceduck-an-intergalacti/oagpdnaponfkenfojfkhjmkdeeamjpib)
 
 ## License
 
